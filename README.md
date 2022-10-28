@@ -60,6 +60,6 @@ Annotations from Batch X.
 |Total                              |      9058|
 
 ## Files
-- [CSV (**Public**) ](https://drive.google.com/file/d/1Y84D3Kzhn7hFz3ywCV6nhTdVBg47uPsI/view?usp=sharing)
+- [CSV (**Public**) ](https://github.com/UnB-KnEDLe/persoseg-corpus/blob/main/data/persoseg_corpus.csv)
 
 # Relevant Papers
